@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="391.982" height="552" viewBox="0 0 391.982 552">
+  <g id="Group_2040" data-name="Group 2040" transform="translate(52.827 -35.553)">
+    <g id="Ellipse_67" data-name="Ellipse 67" transform="translate(68.552 194.128)" fill="none" stroke="#97c9d5" stroke-width="2" stroke-dasharray="15 18.4">
+      <ellipse cx="73.656" cy="96.713" rx="73.656" ry="96.713" stroke="none"/>
+      <ellipse cx="73.656" cy="96.713" rx="72.656" ry="95.713" fill="none"/>
+    </g>
+    <path id="Path_4494" data-name="Path 4494" d="M0,0H390" transform="translate(-52.448 292.813)" fill="none" stroke="#97c9d5" stroke-width="2" stroke-dasharray="18 19.2"/>
+    <line id="Line_120" data-name="Line 120" y2="552" transform="translate(143.164 35.553)" fill="none" stroke="#97c9d5" stroke-width="2" stroke-dasharray="15 16"/>
+    <g id="Group_2168" data-name="Group 2168" transform="translate(-52.448 382.578)">
+      <path id="Path_4492" data-name="Path 4492" d="M-10.279,143.576S17.387,56.538,38.894,48.821c28.781-10.326,64.055-18.661,84.838-24.1,5.711-1.494,10.5-17.756,14.159-19.777,6.92-16.092,7.735-20.746,7.735-20.746" transform="translate(10.854 15.799)" fill="none" stroke="#97c9d5" stroke-width="2" stroke-dasharray="15 19"/>
+    </g>
+    <g id="Group_2170" data-name="Group 2170" transform="translate(182.296 382.578)">
+      <path id="Path_4492-2" data-name="Path 4492" d="M145.626,143.576S117.961,56.538,96.453,48.821C67.672,38.495,32.4,30.16,11.615,24.724,5.9,23.23,1.117,6.968-2.544,4.947-9.465-11.145-10.279-15.8-10.279-15.8" transform="translate(10.279 15.799)" fill="none" stroke="#97c9d5" stroke-width="2" stroke-dasharray="15 19"/>
+    </g>
+  </g>
+</svg>

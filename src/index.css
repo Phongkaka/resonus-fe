@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Noto Sans JP", sans-serif;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}
+
+@font-face {
+  font-family: "GeorgiaItalic";
+  src: local("GeorgiaItalic"), url("./fonts/georgia_italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Ryumin_H-KL";
+  src: local("Ryumin_H-KL"), url("./fonts/A-OTF_Ryumin_Pro_H-KL.otf") format("opentype");
+}
+
+.georgia {
+  font-family: "GeorgiaItalic";
+  font-size: 12px;
+}
+.ryumin {
+  font-family: "Ryumin_H-KL";
+  letter-spacing: 3px;
+  font-size: 21px;
+}
+
